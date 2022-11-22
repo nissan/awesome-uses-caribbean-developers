@@ -39,23 +39,22 @@ const Layout = ({ children }) => {
         <footer>
           <center ya-i-used-a-center-tag="sue me">
             <p>
-              Made by <a href="https://wesbos.com">Wes Bos</a> with{' '}
-              <a href="https://www.gatsbyjs.org">Gatsby</a> ©{' '}
-              {new Date().getFullYear() - Math.floor(Math.random() * 777)}
+              Modifications made by <a href="https://github.com/nissan">Nissan Dookeran</a>
             </p>
             <p>
-              Source on{' '}
+              Modified source code on <a href="https://github.com/nissan/awesome-uses-caribbean-developers">GitHub</a>
+            </p>
+            <p>
+              Forked from code made by <a href="https://wesbos.com">Wes Bos</a> with{' '}
+              <a href="https://www.gatsbyjs.org">Gatsby</a>
+            </p>
+            <p>
+              Original Source on{' '}
               <a href="https://github.com/wesbos/awesome-uses/">GitHub</a>. Add
               yourself!
             </p>
             <p>
               Icons from <a href="https://icons8.com">icons8.com</a>
-            </p>
-            <p>
-              Domain provided by <a href="https://get.tech/">.Tech</a>
-            </p>
-            <p>
-              Hosted on <a href="https://netlify.com">Netlify</a>
             </p>
           </center>
         </footer>

@@ -22,11 +22,11 @@ function Header({ siteTitle, siteDescription, siteUrl }) {
       </Helmet>
       <div>
         <h1 id="top">
-          <Link to="/">/uses</Link>
+          <Link to="/">/uses for Caribbean Devs</Link>
         </h1>
         <p>
-          A list of <code>/uses</code> pages detailing developer setups, gear,
-          software and configs.
+          A list of <code>/uses</code> pages detailing setups, gear,
+          software and configs for developers who are either Caribbean based or part of the Caribbean diaspora.
         </p>
       </div>
     </HeaderWrapper>
