@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: '__GATSBY_IPFS_PATH_PREFIX__',
   siteMetadata: {
     title: `/uses`,
     description: `A list of /uses pages detailing developer setups.`,
@@ -29,5 +30,6 @@ module.exports = {
     },
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-styled-components`,
+    'gatsby-plugin-ipfs'
   ],
 };
